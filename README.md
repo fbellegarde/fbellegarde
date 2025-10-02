@@ -56,7 +56,7 @@ I use GitHub not just to store code but to **track my progress and growth** as a
 ---
 
 ## 📬 Let’s Connect  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Email:** your@email.com  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/fernando-bellegarde-381316b1)  
+- **Email:** fernandobellegarde64@gmail.com
 
 ---
