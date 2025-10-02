@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fernando Bellegarde  
 
-Welcome to my GitHub portfolio!  
+Welcome to my GitHub profile!  
 I’m passionate about building **data-driven applications, dashboards, and cloud-native solutions**. My goal is to design systems that are scalable, efficient, and impactful.  
 
 This space highlights my projects, skills, and growth as a developer.  
